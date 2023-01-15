@@ -4,7 +4,7 @@
 
 🌱 **About myself** <br>
 
-✔️ I am **Ankit Dubey**, pursued my bachelor's from Dr. RMLAU, Ayodhya in *Computer and Science Engineering*. <br>
+✔️ I am **Ankit Dubey**, pursued my bachelor's from Dr. RMLAU, Ayodhya in *Computer Science Engineering*. <br>
 
 ✔️ I am interested in web development. I also enjoy solving Data Structures and Algorithms related problems. <br>
 
