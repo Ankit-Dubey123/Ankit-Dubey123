@@ -22,11 +22,11 @@
 
 📶 Stats:<br><br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-dubey123&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="ankit-dubey123" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ankit-dubey123&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="ankit-dubey123" />
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-dubey123&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="ankit-dubey123" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankit-dubey123&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="ankit-dubey123" />
 
 <br>
 
