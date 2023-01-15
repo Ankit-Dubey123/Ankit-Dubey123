@@ -26,7 +26,7 @@
 
 <br>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-dubey123&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="ankit-dubey123" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-dubey123&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="ankit-dubey123" />
 
 <br>
 
