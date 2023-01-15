@@ -22,7 +22,7 @@
 
 📶 Stats:<br><br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-dubey123&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="ankit-dubey123" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-dubey123&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="ankit-dubey123" />
 
 <br>
 
@@ -30,4 +30,4 @@
 
 <br>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-dubey123&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="ankit-dubey123" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-dubey123&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="ankit-dubey123" />
