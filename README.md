@@ -30,4 +30,4 @@
 
 <br>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-dubey123&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="ankit-dubey123" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ankit-Dubey123&show_icons=true&locale=en&theme=gruvbox)](https://git.io/streak-stats)
