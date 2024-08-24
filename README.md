@@ -6,8 +6,9 @@
 
 ✔️ I am **Ankit Dubey**, pursued my bachelor's from Dr. RMLAU, Ayodhya in *Computer Science Engineering*. <br>
 
-✔️ I am interested in web development. I also enjoy solving Data Structures and Algorithms related problems. <br>
+✔️ Currently I am working in CreateBytes as a Associate Software Engineer, gathering the experience of various standards followed in the industry.<br>
 
+✔️ I also enjoy solving Data Structures and Algorithms related problems (solved 600+ problems).<br> 
 
 
 <h3 align="left">Connect with me:</h3>
